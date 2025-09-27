@@ -1,0 +1,6 @@
+:root { font-family: ui-sans-serif, system-ui, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji; }
+body { margin: 0; background: #0f172a; color: #e2e8f0; }
+.wrap { max-width: 640px; margin: 8rem auto; padding: 0 1rem; }
+h1 { margin-bottom: 0.5rem; }
+button { padding: 0.6rem 1rem; border: 0; border-radius: 8px; cursor: pointer; }
+.msg { margin-top: 0.75rem; opacity: 0.9; }
